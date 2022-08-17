@@ -1,2 +1,2 @@
 # LSTMAssetForecast
-Final Year Project forecasting bitcoin prices using LSTM and VIF feature selection
+Final Year Project forecasting bitcoin prices using LSTM and VIF feature selection with tensorflow
